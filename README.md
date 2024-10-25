@@ -1,1 +1,3 @@
-# bg-crypto
+# Hi 👋
+
+![alt text](1.jpg)
